@@ -4,8 +4,8 @@ Repositório para guardar materiais de apoio ao curso, como *slides*, tutoriais,
 
 ## 1. Materiais de apoio
 
-- Tópico 1 - Fundamentos de *machine learning*:
-- Tópico 2 - Classificação: teoria e modelos: 
+- Tópico 1 - Fundamentos de *machine learning*: materiais/topico_01_fundamentos_ML.pdf
+- Tópico 2 - Classificação: teoria e modelos: materiais/topico_02_classificacao.pdf
 
 ## 2. Principais pacotes:
 
