@@ -5,6 +5,6 @@ Repositório para guardar materiais de apoio ao curso, como *slides*, tutoriais,
 ## Tutoriais
 
 - Como "se virar" no Github: https://tutorialzine.com/2016/06/learn-git-in-30-minutes
-- Manipulação de dados com o `pandas`: https://github.com/EA991-Lab/utils/blob/main/notebooks/introducao_pandas_scikit_learn.ipynb
-- Uso do `seaborn`para análise visual: https://github.com/EA991-Lab/utils/blob/main/notebooks/introducao_seaborn.ipynb
+- Manipulação de dados com o `pandas` e visualização com `seaborn`: https://github.com/EA991-Lab/utils/blob/main/notebooks/Introducao_Pandas_Seaborn.ipynb
+- Introdução ao Scikit-Learn: https://github.com/EA991-Lab/utils/blob/main/notebooks/Introducao_scikit_learn.ipynb
 
